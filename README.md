@@ -54,4 +54,12 @@ A commit or "revision", is an individual change to file(s). it's like when you s
 <li>Git branch branchName</li>
 <li>Git Switch branchName</li>
 </ol>
-
+<h1>Delete or Update branch</h1>
+<ol>
+  <li>git branch -d BranchName</li>
+  <li>git branch -m ChangedBranchName</li>
+</ol>
+<h1>Merging Branch</h1>
+<ol>
+  <li>git merge branchName</li>
+</ol>
